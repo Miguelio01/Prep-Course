@@ -1,0 +1,16 @@
+ * Variables
+    es un espacio de memoria que se guarda para llenarlo con informacion 
+
+ * Strings
+    tipo de datos  que se refiere a los TEXTOS o caracteres 
+
+ * Funciones (argumentos, `return`)
+    es una agrupacion de codigos, para no repetirce y poderlo usar muchas veces
+    los argumentos son los tipos de datos requeridos para una funcion 
+    return es la forma de para una funcion y que nos sirve para devolver la informacion resultante a la funcion.
+ 
+ * Declaraciones `if`
+    la Declaraciones if es un operdaro que nos sirve para comprar los argumentos de una funcion o sensillamente unos datos ya dados 
+
+ * Valores booleanos (`true`, `false`)
+    son resutados de implemnetar operaciones o operadores logicos tambien nos aydan aimplementar los codigos para recibir respues afirmativas o negativas dependiendo de la logica del codigo
