@@ -1,0 +1,5 @@
+* `for`
+    es un de los bucles que hat para hacer que un codigo re repita de manera finita 
+
+* `&&`, `||`, `!`
+son los 3 operadore logico para la programacion que con tiene el and o y, or u o, y el not o no
