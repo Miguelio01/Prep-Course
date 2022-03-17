@@ -1,0 +1,6 @@
+	* Arrays
+         los arreglos son un compendio de informacion ordenada como en grupos o listas;
+         se define pors {}, lo cuales se puede llenar con cualquier tiepo de eliementos 
+        como numeros , String, null, undefined, function(), oitros arrays{}, listas, etc.
+
+        un arrays puedes ser asediso con un idice 
