@@ -1,0 +1,17 @@
+* Objetos 
+    los objetos son simelares a los Array con la diferencia que se reconose con {}
+    y en su contenido no es variado como los array, sino por el contrario toda la 
+    informacion es sobre la mismama cosa; Entoces los objetos nos permiten gusardar difretes caracteristicas o propiedades, que podemos nombrar o identificar, para que despues podramos darles valor a estas propiedades, y de esta manera tengamos mejor oganizados los datos.
+
+* Propiedades
+    son aquellas caracteristicas que se les dan a los Objetos para poder identificar mejor los valores que van dentro de esta.
+
+* Métodos
+    son las propiedades que a su ves son Funciones.
+
+
+* Bucle `for…in`
+    esta es la forma de Iterar o recorer un Objetos en este caso la estructura del for cambia; se declara la varieble in esque s de que objeto se quiere recorer y el nombre el objeto en cuestion.
+
+* Notación de puntos vs notación de corchetes
+    radica que es mucho mas sensilla de escribir la de punto pero es literar; en cmbio la de [] es mas demorada pero es mas flexible con respecto al llamado de lo que se nesesite.
