@@ -1,0 +1,2 @@
+* Funciones Callback
+    la funcion Callback, nos ayuda a realizar procesos que requieran usar funciones previamente elavorados en conjunto con arreglos, esto permite hacer procesos mas eficaces y escalables.
