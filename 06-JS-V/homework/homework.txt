@@ -1,0 +1,12 @@
+* `prototype`
+    es el como se conforma el lenguaje de proframacion JavaScrip ya que todo esta basado en objetos ya creadon en el lenguage y esto permite usar metodos que pertenencen a los prototipos de los objetos y facilitar la programacion.
+
+* _Constructors_ (de Clases)
+    una clase en una relacion o conjunto de relaciones, intancias o caracteristicas que comparte un solo objeto, 
+    sabiendo que un objeto en programacion es una caracterizacion de algo que se quiera organizar, que asubez se compone 
+    de mas caracteristicas; Para resumir una clase es una colescciones de objetos que comparten caracteristicas similares.
+
+    Una clses es una agupacionde objetos que se denomina con una caracteristica general, 
+    la cual se llenara de variso objetos que la cumplan pero a suves tenga caracteristicas unicas por ejemplo:
+
+    clase carro la compnen carros de diferents marcas audi, mercede, BMW, todos son carros. 
