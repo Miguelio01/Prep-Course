@@ -1,0 +1,28 @@
+html{
+    background-image: url(https://previews.123rf.com/images/photosky99/photosky991503/photosky99150300008/37564729-textura-de-fondo-resumen-fondo-gris-dise%C3%B1o-del-grunge.jpg);
+}
+
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: aqua;
+    padding: 50px;
+    border: 5px;
+    border-color: aquamarine;
+    border-style: double;
+    margin: 0 auto;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+
+div{
+    text-align: center;
+
+}
+
+.divClass{
+    margin: 0 auto;
+    display: flexbox;
+}
